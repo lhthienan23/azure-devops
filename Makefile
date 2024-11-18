@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.flask-ml-azure
+	python3 -m venv ~/.azure-devops
 	#source ~/.flask-ml-azure/bin/activate
 	
 install:
