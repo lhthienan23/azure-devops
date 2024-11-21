@@ -1,24 +1,16 @@
-# Starter pipeline    
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
 trigger:
 - main
 
-# TODO: Replace the agent pool name
 pool: myAgentPool
 
 variables:
-  # TODO: Replace the service connection name as used in the DevOps project settings
+
   azureServiceConnectionId: 'myServiceConnection'
-  
-  # TODO: Specify the value of the existing Web App name
+
   webAppName: 'mywebapp-azure-devops'
 
-  # Environment name
   environmentName: 'deploy'
 
-  # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
 
 stages:
@@ -74,7 +66,7 @@ stages:
         deploy:
           steps:
             - task: AzureWebApp@1
-              displayName: 'Deploy Azure Web App'
+              displayName: 'Deploy Azure webapp'
               inputs:
                 azureSubscription: $(azureServiceConnectionId)
                 appName: $(webAppName)
