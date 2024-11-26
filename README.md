@@ -2,12 +2,11 @@
 
 # Overview
 
-<TODO: complete this with an overview of your project>
+A Python Flask web application using Azure to demonstrate Continuous Integration and Continuous Delivery
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project: https://trello.com/invite/b/6745ecde27f5d4035768ac1b/ATTI6c1e687a2983215a499fbbb155fe9574AE086998/azure-devops
+* [Trello Board for the Project](https://trello.com/invite/b/6745ecde27f5d4035768ac1b)
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
