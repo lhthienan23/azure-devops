@@ -7,7 +7,7 @@ A Python Flask web application using Azure to demonstrate Continuous Integration
 ## Project Plan
 
 * [Trello Board for the Project](https://trello.com/invite/b/6745ecde27f5d4035768ac1b)
-* A link to a spreadsheet that includes the original and final project plan>
+* [Project Plan Spreadsheet](https://docs.google.com/spreadsheets/d/1ZzMOn_TED4mJ6rDOsSDvhyWhrwBc7Ht62aNbzpEAArw/edit?usp=sharing)
 
 ## Instructions
 
