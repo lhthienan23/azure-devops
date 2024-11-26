@@ -11,8 +11,7 @@ A Python Flask web application using Azure to demonstrate Continuous Integration
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram (Shows how key parts of the system work)>![architectural](https://github.com/user-attachments/assets/8a750286-f971-4262-b267-cf38fc21aaa8)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
