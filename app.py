@@ -32,7 +32,7 @@ def predict():
 
     try:
         model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Housing_price_model", "LinearRegression.joblib")
-        clf = joblib.load("./Housing_price_model/GradientBoostingRegressor.joblib")
+        clf = joblib.load(model_path)
     except:
         LOG.info("JSON payload: %s json_payload")
         return "Model not loaded"
