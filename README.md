@@ -50,6 +50,8 @@ Port: 443
 ![image](https://github.com/user-attachments/assets/af3d6151-2bfa-4b45-8830-242a540001d4)
 
 * Output of streamed log files from deployed application
+  
+![image](https://github.com/user-attachments/assets/b18531c5-2fb9-4b95-ad11-04093bae68ed)
 
 > 
 
