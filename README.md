@@ -2,7 +2,7 @@
 
 # Overview
 
-A Python Flask web application using Azure to demonstrate Continuous Integration and Continuous Delivery
+A Python Flask web application using Azure to demonstrate Continuous Integration and Continuous Delivery.
 
 ## Project Plan
 
