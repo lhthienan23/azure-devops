@@ -1,5 +1,5 @@
 [![Python application test with Github Actions](https://github.com/lhthienan23/azure-devops/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/lhthienan23/azure-devops/actions/workflows/pythonapp.yml)
-
+[![Build Status](https://dev.azure.com/odluser270113/azure-devops/_apis/build/status%2Flhthienan23.azure-devops?branchName=main)](https://dev.azure.com/odluser270113/azure-devops/_build/latest?definitionId=1&branchName=main)
 # Overview
 
 A Python Flask web application using Azure to demonstrate Continuous Integration and Continuous Delivery.
