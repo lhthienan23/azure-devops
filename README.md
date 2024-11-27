@@ -11,9 +11,11 @@ A Python Flask web application using Azure to demonstrate Continuous Integration
 
 ## Instructions
 
-* Architectural Diagram (Shows how key parts of the system work)>![architectural](https://github.com/user-attachments/assets/8a750286-f971-4262-b267-cf38fc21aaa8)
+* Architectural Diagram: ![architectural](https://github.com/user-attachments/assets/8a750286-f971-4262-b267-cf38fc21aaa8)
 
-* Project cloned into Azure Cloud Shell ![clone](https://github.com/user-attachments/assets/d3854c4e-9f67-45e5-8897-47eefef712cf)
+* Project cloned into Azure Cloud Shell: ![clone](https://github.com/user-attachments/assets/d3854c4e-9f67-45e5-8897-47eefef712cf)
+
+* Passing tests after running `make all` command: ![makeall1](https://github.com/user-attachments/assets/4e870c72-c40c-46c8-ab5a-c599a91be3c0)
 
 * Project running on Azure App Service
 
