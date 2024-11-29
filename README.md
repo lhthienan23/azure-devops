@@ -39,14 +39,8 @@ A Python Flask web application using Azure to demonstrate Continuous Integration
 
   ![image](https://github.com/user-attachments/assets/b09ef3e1-23d3-4eb7-8183-b74137469449)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
+* Successful prediction from deployed flask app in Azure Cloud Shell:
+  
 ![image](https://github.com/user-attachments/assets/af3d6151-2bfa-4b45-8830-242a540001d4)
 
 * Output of streamed log files from deployed application
